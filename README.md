@@ -2,6 +2,6 @@
 Here is all public assets of my SS Pvt. Ltd.
 
 # Key Terms
-**seeko** - seeker's official
+**seeko** - seeker's official /n
 **seek** - seeker
 **ss** - SeekerSagar
